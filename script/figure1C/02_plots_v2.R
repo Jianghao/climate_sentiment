@@ -26,7 +26,7 @@ ggplot(df.sum, aes(x = yday, y = value, colour = year)) +
   geom_smooth(se = FALSE, lwd = 1.0, span = 0.25, alpha = 0.75) +
   xlab("Julian Day") +
   ylab(expression(paste("Temperature (", degree, C, ")"))) +
-  scale_colour_manual(values = c("#d73027", "#80cdc1", "#4575b4")) +
+  scale_colour_manual(values = c("#d73027", "#4DBBD5FF", "#4575b4")) +
   theme_Publication() +
   theme(
     legend.title = element_blank(),
