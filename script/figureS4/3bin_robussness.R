@@ -99,6 +99,6 @@ p.main <- ggdraw() +
   draw_plot(p.tmax.3bin,  x = .25, y = .5, width = .5, height = .5) +
   draw_plot(p.north.3bin, x = 0, y = 0, width = .5, height = .5) +
   draw_plot(p.south.3bin, x = .5, y = 0, width = .5, height = .5) +
-  draw_plot_label(c("a", "b", "c"), c(0.25, 0, 0.5), c(1, 0.5, 0.5))
+  draw_plot_label(c("A", "B", "C"), c(0.25, 0, 0.5), c(1, 0.5, 0.5))
 save_plot("tmax_north_south_3bin.pdf", p.main, base_width = 10, base_height = 8)
 

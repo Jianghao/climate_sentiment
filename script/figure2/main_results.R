@@ -99,5 +99,5 @@ p.main <- ggdraw() +
   draw_plot(p.tmax,  x = .25, y = .5, width = .5, height = .5) +
   draw_plot(p.north, x = 0, y = 0, width = .5, height = .5) +
   draw_plot(p.south, x = .5, y = 0, width = .5, height = .5) +
-  draw_plot_label(c("a", "b", "c"), c(0.25, 0, 0.5), c(1, 0.5, 0.5))
+  draw_plot_label(c("A", "B", "C"), c(0.25, 0, 0.5), c(1, 0.5, 0.5))
 save_plot("tmax_north_south.pdf", p.main, base_width = 10, base_height = 8)
