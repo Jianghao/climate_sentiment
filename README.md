@@ -1,6 +1,6 @@
 # Climate Change and Expressed Sentiment
 
-Replication code and data for the paper "A 43-million-person Investigation into Weather Extremes and Expressed Sentiment Under Climate Changet"
+Replication code and data for the paper "A 43-million-person Investigation into Weather Extremes and Expressed Sentiment Under Climate Change"
 
 - Data
 - Script
