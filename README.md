@@ -1,6 +1,7 @@
 # Climate Change and Expressed Sentiment
 
-Replication code and data for the paper "A 43-million-person Investigation into Weather Extremes and Expressed Sentiment Under Climate Change"
+Replication code and data for the paper 
+Wang, J., Obradovich, N. & Zheng, S. A 43-Million-Person Investigation into Weather and Expressed Sentiment in a Changing Climate. One Earth 2, 568–577 (2020)"
 
 - Data
 - Script
